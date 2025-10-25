@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "buffer": "^6.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "net": "^1.0.2",
+    "pg": "^8.16.3",
+    "teltonika-decoder": "^0.1.1",
+    "teltonika-parser": "^0.0.15"
+  },
+  "name": "control_buses_no_borrar",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
